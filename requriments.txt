@@ -1,8 +1,8 @@
 streamlit
 
 langchain
-langchain-core
 langchain-community
+langchain-core
 langchain-groq
 langchain-huggingface
 
@@ -11,7 +11,7 @@ sentence-transformers
 huggingface-hub
 
 pypdf
-openpyxl
 pandas
+openpyxl
 
 python-dotenv
